@@ -1,0 +1,3 @@
+Manual de usuario (Usuario de prueba y roles): https://docs.google.com/document/d/1AbekiF0N71p3MO3vrYGxYUScZjrbBqXOCqosTnzt6i0/edit?usp=sharing
+Documento de despliegue: https://docs.google.com/document/d/1RZtqi4w1pkBozRP1tddT0V7Bcde3PJ6A3hCxQnwSMpc/edit?usp=sharing
+Documentación de los WebServices: https://docs.google.com/document/d/1u3lcDTnr5deOktKSUrPVAIxsYu5MenoUaPDiqNafdbc/edit?usp=sharing
